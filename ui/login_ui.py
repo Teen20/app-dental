@@ -17,7 +17,7 @@ from PySide6.QtGui import (QBrush, QColor, QConicalGradient, QCursor,
     QPalette, QPixmap, QRadialGradient, QTransform)
 from PySide6.QtWidgets import (QApplication, QLabel, QLineEdit, QMainWindow,
     QPushButton, QSizePolicy, QStatusBar, QWidget)
-import imagenes dent_rc
+#import imagenes dent_rc
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
